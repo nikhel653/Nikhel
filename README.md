@@ -50,6 +50,25 @@
 * 🔄 **[in progress]** Mastering hardware-focused loops in C programming and building fundamental data tools in Python.
 * 🎯 **[goal]** Learn hardware description languages (Verilog/VHDL) and execute digital circuit simulation micro-projects.
 * 🚀 **[long-term]** Graduate with a B.E. in ECE and secure a professional corporate role as a Silicon VLSI Design Engineer.
+  ---
+
+## 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhel653&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhel653&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhel653&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* Let's collaborate on baseline coding repositories or discuss emerging consumer microprocessors and chip layout engineering!
+* Reach out via [LinkedIn](https://linkedin.com/in/your-linkedin-id) or drop a direct inquiry at [your-email@gmail.com](mailto:your-email@gmail.com).
 
 ---
 
